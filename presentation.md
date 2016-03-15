@@ -7,7 +7,7 @@ Introduction
 
 ---------
 
-The Bownian Motion, a.k.a. Wiener process, is a foundational block in quantitative finance. 
+The Brownian Motion, a.k.a. Wiener process, is a foundational block in quantitative finance 
 
 
 Used extensively for 
@@ -76,7 +76,7 @@ Here are two Brownian Motion Paths
 
 ![](images/asmtA_Brownian.jpg)
 
-Asmnt Part B: Covaraiance of overlaping motions 
+Asmnt Part B: Covaraience of overlaping motions 
 =================
 
 ---------
@@ -136,7 +136,7 @@ $$Cov(W_{t_1},W_{t_2})\\
 
 ----------
 
-Analogously, if $0=t_0<t_2<t_1$, then $Cov(W_{t_1},W_{t_2})=E(W_{t_2}^2)=t_2$.
+Analogously, for $t_0<t_2<t_1$, then $Cov(W_{t_1},W_{t_2})=E(W_{t_2}^2)=t_2$.
 
 Conclusion
 ----------
